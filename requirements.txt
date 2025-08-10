@@ -2,4 +2,4 @@ streamlit==1.48.0
 numpy==1.26.4
 pandas==2.2.2
 pulp==2.7.0
-highspy==1.7.1.post0
+highspy==1.11.0
